@@ -1,0 +1,6 @@
+framework module Pods_CSProgressWatcher {
+  umbrella header "Pods-CSProgressWatcher-umbrella.h"
+
+  export *
+  module * { export * }
+}
