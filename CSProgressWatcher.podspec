@@ -18,15 +18,13 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/CaioSym/CSProgressWatcher"
   s.license      = { :type => "MIT", :file => "LICENSE" }
 
-  s.author             = { "Caio Sym" => "email@address.com" }
+  s.author             = { "Caio Sym" => "caiosym@gmail.com" }
   s.ios.deployment_target = "9.0"
-  s.osx.deployment_target = "10.7"
+  s.osx.deployment_target = "10.9"
   s.watchos.deployment_target = "2.0"
   s.tvos.deployment_target = "9.0"
 
   s.source       = { :git => "https://github.com/CaioSym/CSProgressWatcher.git", :tag => "1.0.0" }
-  s.public_header_files = "CSProgressWatcher/CSProgressWatcher.h"
-
   s.source_files  = "CSProgressWatcher/Sources/*.swift"
-  
+
 end

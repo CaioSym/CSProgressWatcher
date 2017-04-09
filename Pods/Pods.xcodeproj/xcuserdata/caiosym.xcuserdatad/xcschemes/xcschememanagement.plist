@@ -9,12 +9,12 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-CSProgressWatcher-CSProgressWatcherTests.xcscheme</key>
+		<key>Pods-CSProgressWatcher.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-CSProgressWatcher.xcscheme</key>
+		<key>Pods-CSProgressWatcherTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -32,17 +32,17 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>6140D157C04DD80D228DFAFC259A1D2F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>6721FCE516F99F3CA3854AF24C83306E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>C443B0F74A8BAD5CAE60B8830A58EF11</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>F11184D55F617BD915DCDA02ED4F4424</key>
+		<key>6911848CD57A9F7DCF843CC4DECDE9D9</key>
 		<dict>
 			<key>primary</key>
 			<true/>

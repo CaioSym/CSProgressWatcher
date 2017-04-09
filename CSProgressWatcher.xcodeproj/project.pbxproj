@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0EAA8C71297B31094AE52B70 /* Pods_CSProgressWatcherTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 67714F651D3F6E44DA2349C4 /* Pods_CSProgressWatcherTests.framework */; };
 		3729B5891E9995E700413D15 /* CSProgressWatcherSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3729B5881E9995E700413D15 /* CSProgressWatcherSpec.swift */; };
 		37BEE2BE1E5102D800BC971F /* CSProgressWatcher.h in Headers */ = {isa = PBXBuildFile; fileRef = 37BEE2BC1E5102D800BC971F /* CSProgressWatcher.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		37BEE2D01E5103A100BC971F /* CSProgressWatcher.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37BEE2B91E5102D800BC971F /* CSProgressWatcher.framework */; };
 		37BEE2DA1E51098000BC971F /* CSProgressWatcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37BEE2D91E51098000BC971F /* CSProgressWatcher.swift */; };
 		50956C8B3D036582E4801E7C /* Pods_CSProgressWatcher_CSProgressWatcherTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 21F7E67E39C8C8DFA25FC8BE /* Pods_CSProgressWatcher_CSProgressWatcherTests.framework */; };
-		B162493DF93200F886E62826 /* Pods_CSProgressWatcher.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 82CFE5445C2DE4F968631000 /* Pods_CSProgressWatcher.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,6 +28,7 @@
 /* Begin PBXFileReference section */
 		1C4A1B181AACAB06D93EC22A /* Pods-CSProgressWatcher-CSProgressWatcherTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CSProgressWatcher-CSProgressWatcherTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CSProgressWatcher-CSProgressWatcherTests/Pods-CSProgressWatcher-CSProgressWatcherTests.debug.xcconfig"; sourceTree = "<group>"; };
 		21F7E67E39C8C8DFA25FC8BE /* Pods_CSProgressWatcher_CSProgressWatcherTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CSProgressWatcher_CSProgressWatcherTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		24C257A7096A24E2751204AA /* Pods-CSProgressWatcherTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CSProgressWatcherTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CSProgressWatcherTests/Pods-CSProgressWatcherTests.debug.xcconfig"; sourceTree = "<group>"; };
 		3729B5881E9995E700413D15 /* CSProgressWatcherSpec.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CSProgressWatcherSpec.swift; sourceTree = "<group>"; };
 		37BEE2B91E5102D800BC971F /* CSProgressWatcher.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CSProgressWatcher.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		37BEE2BC1E5102D800BC971F /* CSProgressWatcher.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CSProgressWatcher.h; sourceTree = "<group>"; };
@@ -35,10 +36,12 @@
 		37BEE2CB1E5103A100BC971F /* CSProgressWatcherTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CSProgressWatcherTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		37BEE2CF1E5103A100BC971F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		37BEE2D91E51098000BC971F /* CSProgressWatcher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CSProgressWatcher.swift; sourceTree = "<group>"; };
+		67714F651D3F6E44DA2349C4 /* Pods_CSProgressWatcherTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CSProgressWatcherTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		825B2A0D624C3B6A614624B0 /* Pods-CSProgressWatcher.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CSProgressWatcher.release.xcconfig"; path = "Pods/Target Support Files/Pods-CSProgressWatcher/Pods-CSProgressWatcher.release.xcconfig"; sourceTree = "<group>"; };
 		82CFE5445C2DE4F968631000 /* Pods_CSProgressWatcher.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CSProgressWatcher.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCA431D1B8F611FC93A2BEE7 /* Pods-CSProgressWatcher-CSProgressWatcherTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CSProgressWatcher-CSProgressWatcherTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CSProgressWatcher-CSProgressWatcherTests/Pods-CSProgressWatcher-CSProgressWatcherTests.release.xcconfig"; sourceTree = "<group>"; };
 		D4BF8CADF4CCF6A12889D806 /* Pods-CSProgressWatcher.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CSProgressWatcher.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CSProgressWatcher/Pods-CSProgressWatcher.debug.xcconfig"; sourceTree = "<group>"; };
+		F0AD3FB76D64D592AB1C38C5 /* Pods-CSProgressWatcherTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CSProgressWatcherTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CSProgressWatcherTests/Pods-CSProgressWatcherTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,7 +49,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B162493DF93200F886E62826 /* Pods_CSProgressWatcher.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -56,6 +58,7 @@
 			files = (
 				37BEE2D01E5103A100BC971F /* CSProgressWatcher.framework in Frameworks */,
 				50956C8B3D036582E4801E7C /* Pods_CSProgressWatcher_CSProgressWatcherTests.framework in Frameworks */,
+				0EAA8C71297B31094AE52B70 /* Pods_CSProgressWatcherTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -130,6 +133,7 @@
 			children = (
 				82CFE5445C2DE4F968631000 /* Pods_CSProgressWatcher.framework */,
 				21F7E67E39C8C8DFA25FC8BE /* Pods_CSProgressWatcher_CSProgressWatcherTests.framework */,
+				67714F651D3F6E44DA2349C4 /* Pods_CSProgressWatcherTests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -141,6 +145,8 @@
 				825B2A0D624C3B6A614624B0 /* Pods-CSProgressWatcher.release.xcconfig */,
 				1C4A1B181AACAB06D93EC22A /* Pods-CSProgressWatcher-CSProgressWatcherTests.debug.xcconfig */,
 				CCA431D1B8F611FC93A2BEE7 /* Pods-CSProgressWatcher-CSProgressWatcherTests.release.xcconfig */,
+				24C257A7096A24E2751204AA /* Pods-CSProgressWatcherTests.debug.xcconfig */,
+				F0AD3FB76D64D592AB1C38C5 /* Pods-CSProgressWatcherTests.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -302,7 +308,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CSProgressWatcher-CSProgressWatcherTests/Pods-CSProgressWatcher-CSProgressWatcherTests-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CSProgressWatcherTests/Pods-CSProgressWatcherTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		D4620E0F38E88104B5D36975 /* [CP] Check Pods Manifest.lock */ = {
@@ -332,7 +338,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CSProgressWatcher-CSProgressWatcherTests/Pods-CSProgressWatcher-CSProgressWatcherTests-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CSProgressWatcherTests/Pods-CSProgressWatcherTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -483,6 +489,7 @@
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -504,12 +511,13 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
 		37BEE2D41E5103A100BC971F /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1C4A1B181AACAB06D93EC22A /* Pods-CSProgressWatcher-CSProgressWatcherTests.debug.xcconfig */;
+			baseConfigurationReference = 24C257A7096A24E2751204AA /* Pods-CSProgressWatcherTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CLANG_ENABLE_MODULES = YES;
@@ -525,7 +533,7 @@
 		};
 		37BEE2D51E5103A100BC971F /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CCA431D1B8F611FC93A2BEE7 /* Pods-CSProgressWatcher-CSProgressWatcherTests.release.xcconfig */;
+			baseConfigurationReference = F0AD3FB76D64D592AB1C38C5 /* Pods-CSProgressWatcherTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CLANG_ENABLE_MODULES = YES;

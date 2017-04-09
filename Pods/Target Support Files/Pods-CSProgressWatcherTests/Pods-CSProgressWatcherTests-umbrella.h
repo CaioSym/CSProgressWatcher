@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_CSProgressWatcher_CSProgressWatcherTestsVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_CSProgressWatcher_CSProgressWatcherTestsVersionString[];
+FOUNDATION_EXPORT double Pods_CSProgressWatcherTestsVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_CSProgressWatcherTestsVersionString[];
 
